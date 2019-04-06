@@ -1,0 +1,137 @@
+Country,Country Code,Region,Happiness Ranking,Happiness Score,Unemployment Rate 2015(%) ,Gross GDP 2015(USD Billion),GDP Per Capita 2015(USD in thousands) 
+Switzerland,CHE,Western Europe,1,7.59,4.8,679.29,82.51
+Iceland,ISL,Western Europe,2,7.56,3.98,16.94,52.16
+Denmark,DNK,Western Europe,3,7.53,6.17,301.3,53.24
+Norway,NOR,Western Europe,4,7.52,4.3,386.66,74.28
+Canada,CAN,North America,5,7.43,6.91,"1,559.62",43.56
+Finland,FIN,Western Europe,6,7.41,9.38,232.46,42.51
+Netherlands,NLD,Western Europe,7,7.38,6.87,758,45.21
+Sweden,SWE,Western Europe,8,7.36,7.4,497.92,50.57
+New Zealand,NZL,Australia and New Zealand,9,7.29,5.37,177.62,37.82
+Australia,AUS,Australia and New Zealand,10,7.28,6.06,"1,349.03",51.4
+Israel,ISR,Middle East and Northern Africa,11,7.28,5.25,299.09,35.71
+Costa Rica,CRI,Latin America and Caribbean,12,7.23,9.26,54.78,11.42
+Austria,AUT,Western Europe,13,7.2,5.72,382.07,44.3
+Mexico,MEX,Latin America and Caribbean,14,7.19,4.34,"1,170.56",9.67
+United States,USA,North America,15,7.12,5.28,"18,120.71",56.72
+Brazil,BRA,Latin America and Caribbean,16,6.98,8.44,"1,802.21",8.8
+Luxembourg,LUX,Western Europe,17,6.95,6.67,57.78,102.7
+Ireland,IRL,Western Europe,18,6.94,9.4,290.62,61.7
+Belgium,BEL,Western Europe,19,6.94,8.48,455.04,40.51
+United Arab Emirates,ARE,Middle East and Northern Africa,20,6.9,1.93,358.14,37.38
+United Kingdom,GBR,Western Europe,21,6.87,5.3,"2,885.57",44.49
+Oman,OMN,Middle East and Northern Africa,22,6.85,3.32,68.91,18.24
+Singapore,SGP,Southeastern Asia,24,6.8,1.69,304.1,54.94
+Panama,PAN,Latin America and Caribbean,25,6.79,4.53,54.09,13.66
+Germany,DEU,Western Europe,26,6.75,4.62,"3,375.61",41.42
+Chile,CHL,Latin America and Caribbean,27,6.67,6.51,244,13.55
+Qatar,QAT,Middle East and Northern Africa,28,6.61,0.16,161.74,66.35
+France,FRA,Western Europe,29,6.58,10.36,"2,438.21",37.94
+Argentina,ARG,Latin America and Caribbean,30,6.57,7.15,594.75,14.9
+Czech Republic,CZE,Central and Eastern Europe,31,6.5,5.05,186.83,17.73
+Uruguay,URY,Latin America and Caribbean,32,6.49,7.49,53.27,15.37
+Colombia,COL,Latin America and Caribbean,33,6.48,8.24,293.48,6.09
+Thailand,THA,Southeastern Asia,34,6.46,0.6,401.4,5.83
+Saudi Arabia,SAU,Middle East and Northern Africa,35,6.41,5.59,654.27,21.09
+Spain,ESP,Western Europe,36,6.33,22.06,"1,197.79",25.82
+Malta,MLT,Western Europe,37,6.3,5.39,10.55,24.04
+Kuwait,KWT,Middle East and Northern Africa,39,6.29,2.2,114.57,27.04
+Suriname,SUR,Latin America and Caribbean,40,6.27,7.22,4.77,8.51
+Trinidad and Tobago,TTO,Latin America and Caribbean,41,6.17,3.39,24.4,17.83
+El Salvador,SLV,Latin America and Caribbean,42,6.13,4,23.17,3.67
+Guatemala,GTM,Latin America and Caribbean,43,6.12,2.7,63.77,3.92
+Uzbekistan,UZB,Central and Eastern Europe,44,6,7.94,66.9,2.14
+Japan,JPN,Eastern Asia,46,5.99,3.33,"4,394.98",34.61
+Ecuador,ECU,Latin America and Caribbean,48,5.97,3.62,99.29,6.1
+Bahrain,BHR,Middle East and Northern Africa,49,5.96,1.21,31.13,22.71
+Italy,ITA,Western Europe,50,5.95,11.9,"1,832.87",30.16
+Bolivia,BOL,Latin America and Caribbean,51,5.89,3.07,33,3.1
+Paraguay,PRY,Latin America and Caribbean,53,5.88,4.56,36.16,5.35
+Kazakhstan,KAZ,Central and Eastern Europe,54,5.86,4.93,184.39,10.43
+Slovenia,SVN,Central and Eastern Europe,55,5.85,8.96,43.07,20.89
+Lithuania,LTU,Central and Eastern Europe,56,5.83,9.12,41.51,14.3
+Nicaragua,NIC,Latin America and Caribbean,57,5.83,4.48,12.61,2.07
+Peru,PER,Latin America and Caribbean,58,5.82,3,189.93,6.15
+Belarus,BLR,Central and Eastern Europe,59,5.81,0.49,56.45,5.94
+Poland,POL,Central and Eastern Europe,60,5.79,7.5,476.97,12.56
+Malaysia,MYS,Southeastern Asia,61,5.77,3.1,296.64,9.68
+Croatia,HRV,Central and Eastern Europe,62,5.76,16.18,49.49,11.78
+Libya,LBY,Middle East and Northern Africa,63,5.75,18.36,27.84,2.72
+Jamaica,JAM,Latin America and Caribbean,65,5.71,13.51,14.15,5.03
+Cyprus,CYP,Western Europe,67,5.69,14.92,19.68,23.24
+Algeria,DZA,Middle East and Northern Africa,68,5.61,11.2,165.98,4.15
+Turkmenistan,TKM,Central and Eastern Europe,70,5.55,3.58,35.8,6.43
+Mauritius,MUS,Sub-Saharan Africa,71,5.48,7.92,11.69,9.26
+Estonia,EST,Central and Eastern Europe,73,5.43,6.19,22.57,17.16
+Indonesia,IDN,Southeastern Asia,74,5.4,4.51,860.85,3.37
+Turkey,TUR,Middle East and Northern Africa,76,5.33,10.24,859.8,10.91
+Nigeria,NGA,Sub-Saharan Africa,78,5.27,4.31,494.58,2.76
+Bhutan,BTN,Southern Asia,79,5.25,2.45,2.06,2.6
+Azerbaijan,AZE,Central and Eastern Europe,80,5.21,4.96,53.07,5.3
+Pakistan,PAK,Southern Asia,81,5.19,3.57,270.56,1.42
+Jordan,JOR,Middle East and Northern Africa,82,5.19,13.07,37.52,4.1
+Montenegro,MNE,Central and Eastern Europe,82,5.19,17.52,4.05,6.52
+China,CHN,Eastern Asia,84,5.14,4.61,"11,064.67",8.17
+Zambia,ZMB,Sub-Saharan Africa,85,5.13,7.75,21.15,1.31
+Romania,ROU,Central and Eastern Europe,86,5.12,6.81,177.89,8.95
+Serbia,SRB,Central and Eastern Europe,87,5.12,17.92,37.16,5.24
+Portugal,PRT,Western Europe,88,5.1,12.44,199.42,19.26
+Latvia,LVA,Central and Eastern Europe,89,5.1,9.87,26.97,13.59
+Philippines,PHL,Southeastern Asia,90,5.07,3.04,292.77,2.88
+Morocco,MAR,Middle East and Northern Africa,92,5.01,9.66,101.18,2.96
+Mozambique,MOZ,Sub-Saharan Africa,94,4.97,25.3,14.8,0.53
+Albania,ALB,Central and Eastern Europe,95,4.96,17.08,11.39,3.95
+Bosnia and Herzegovina,BIH,Central and Eastern Europe,96,4.95,27.69,16.21,4.58
+Lesotho,LSO,Sub-Saharan Africa,97,4.9,26.98,2.51,1.18
+Dominican Republic,DOM,Latin America and Caribbean,98,4.88,5.92,68.8,6.9
+Mongolia,MNG,Eastern Asia,100,4.87,4.86,11.75,3.96
+Greece,GRC,Western Europe,102,4.86,24.9,195.54,18.02
+Lebanon,LBN,Middle East and Northern Africa,103,4.84,6.63,49.91,11.28
+Hungary,HUN,Central and Eastern Europe,104,4.8,6.81,122.88,12.46
+Honduras,HND,Latin America and Caribbean,105,4.79,4.59,20.98,2.6
+Tajikistan,TJK,Central and Eastern Europe,106,4.79,10.36,7.85,0.92
+Tunisia,TUN,Middle East and Northern Africa,107,4.74,15.22,43.15,3.83
+Bangladesh,BGD,Southern Asia,109,4.69,4.43,195.08,1.3
+Ukraine,UKR,Central and Eastern Europe,111,4.68,9.14,91.03,2.14
+Iraq,IRQ,Middle East and Northern Africa,112,4.68,8.09,177.5,4.81
+South Africa,ZAF,Sub-Saharan Africa,113,4.64,25.16,317.54,5.8
+Ghana,GHA,Sub-Saharan Africa,114,4.63,2.15,49.18,1.37
+Zimbabwe,ZWE,Sub-Saharan Africa,115,4.61,5.09,19.96,1.14
+Liberia,LBR,Sub-Saharan Africa,116,4.57,2.27,3.18,0.7
+India,IND,Southern Asia,117,4.57,3.49,"2,102.39",1.64
+Sudan,SDN,Sub-Saharan Africa,118,4.55,12.78,97.16,1.72
+Haiti,HTI,Latin America and Caribbean,119,4.52,14.05,8.72,0.81
+Nepal,NPL,Southern Asia,121,4.51,3.1,21.41,0.75
+Ethiopia,ETH,Sub-Saharan Africa,122,4.51,4.97,64.46,0.72
+Sierra Leone,SLE,Sub-Saharan Africa,123,4.51,4.7,4.22,0.6
+Mauritania,MRT,Sub-Saharan Africa,124,4.44,9.85,4.84,1.3
+Kenya,KEN,Sub-Saharan Africa,125,4.42,11.59,64.01,1.45
+Djibouti,DJI,Sub-Saharan Africa,126,4.37,5.86,1.63,1.79
+Armenia,ARM,Central and Eastern Europe,127,4.35,18.26,10.55,3.53
+Botswana,BWA,Sub-Saharan Africa,128,4.33,17.01,14.41,6.54
+Myanmar,MMR,Southeastern Asia,129,4.31,0.77,59.69,1.15
+Georgia,GEO,Central and Eastern Europe,130,4.3,11.96,13.99,3.76
+Malawi,MWI,Sub-Saharan Africa,131,4.29,5.88,6.37,0.35
+Sri Lanka,LKA,Southern Asia,132,4.27,4.67,80.6,3.84
+Cameroon,CMR,Sub-Saharan Africa,133,4.25,4.3,30.92,1.34
+Bulgaria,BGR,Central and Eastern Europe,134,4.22,9.14,50.2,7.02
+Egypt,EGY,Middle East and Northern Africa,135,4.19,13.05,332.7,3.73
+Yemen,YEM,Middle East and Northern Africa,136,4.08,13.81,45.59,1.61
+Angola,AGO,Sub-Saharan Africa,137,4.03,7.28,116.19,4.35
+Mali,MLI,Sub-Saharan Africa,138,4,7.73,13.1,0.74
+Comoros,COM,Sub-Saharan Africa,140,3.96,4.34,0.99,0.75
+Uganda,UGA,Sub-Saharan Africa,141,3.93,1.9,27.1,0.66
+Senegal,SEN,Sub-Saharan Africa,142,3.9,4.85,17.77,1.19
+Gabon,GAB,Sub-Saharan Africa,143,3.9,20,14.38,7.45
+Niger,NER,Sub-Saharan Africa,144,3.85,0.34,7.22,0.41
+Cambodia,KHM,Southeastern Asia,145,3.82,0.18,18.05,1.16
+Madagascar,MDG,Sub-Saharan Africa,147,3.68,1.8,9.74,0.4
+Central African Republic,CAF,Sub-Saharan Africa,148,3.68,6.39,1.58,0.33
+Chad,TCD,Sub-Saharan Africa,149,3.67,5.66,10.95,0.95
+Guinea,GIN,Sub-Saharan Africa,150,3.66,4.53,8.79,0.71
+Burkina Faso,BFA,Sub-Saharan Africa,152,3.59,6.49,10.42,0.58
+Afghanistan,AFG,Southern Asia,153,3.58,8.86,19.91,0.59
+Rwanda,RWA,Sub-Saharan Africa,154,3.46,1.16,8.28,0.74
+Benin,BEN,Sub-Saharan Africa,155,3.34,2.63,8.29,0.79
+Burundi,BDI,Sub-Saharan Africa,157,2.9,1.57,3.1,0.29
+Togo,TGO,Sub-Saharan Africa,158,2.84,1.84,4.18,0.56

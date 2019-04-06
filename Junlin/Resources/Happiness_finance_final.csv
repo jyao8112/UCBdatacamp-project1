@@ -1,0 +1,137 @@
+,Country,Country Code,Region,Gross GDP 2015(USD Billion),Happiness Score,Gross GDP 2015,Unemployment Rate 2015(%) ,GDP Per Capita 2015(USD),Gross GDP 2015(USD Billion),GDP Per Capita 2015(USD in thousands) 
+0,Switzerland,CHE,Western Europe,679.29,7.59,6.79289E+11,4.8,82510.41,679.29,82.51
+1,Iceland,ISL,Western Europe,16.94,7.56,16942247374,3.98,52158.36,16.94,52.16
+2,Denmark,DNK,Western Europe,301.3,7.53,3.01298E+11,6.17,53235.65,301.3,53.24
+3,Norway,NOR,Western Europe,386.66,7.52,3.86663E+11,4.3,74280.67,386.66,74.28
+4,Canada,CAN,North America,"1,559.62",7.43,1.55962E+12,6.91,43559.73,"1,559.62",43.56
+5,Finland,FIN,Western Europe,232.46,7.41,2.32465E+11,9.38,42505.91,232.46,42.51
+6,Netherlands,NLD,Western Europe,758,7.38,7.57999E+11,6.87,45205.77,758,45.21
+7,Sweden,SWE,Western Europe,497.92,7.36,4.97918E+11,7.4,50565.1,497.92,50.57
+8,New Zealand,NZL,Australia and New Zealand,177.62,7.29,1.77621E+11,5.37,37822.04,177.62,37.82
+9,Australia,AUS,Australia and New Zealand,"1,349.03",7.28,1.34903E+12,6.06,51404.41,"1,349.03",51.4
+10,Israel,ISR,Middle East and Northern Africa,299.09,7.28,2.99094E+11,5.25,35705.41,299.09,35.71
+11,Costa Rica,CRI,Latin America and Caribbean,54.78,7.23,54775994478,9.26,11422.6,54.78,11.42
+12,Austria,AUT,Western Europe,382.07,7.2,3.82066E+11,5.72,44296.59,382.07,44.3
+13,Mexico,MEX,Latin America and Caribbean,"1,170.56",7.19,1.17056E+12,4.34,9673.64,"1,170.56",9.67
+14,United States,USA,North America,"18,120.71",7.12,1.81207E+13,5.28,56718.32,"18,120.71",56.72
+15,Brazil,BRA,Latin America and Caribbean,"1,802.21",6.98,1.80221E+12,8.44,8803.35,"1,802.21",8.8
+16,Luxembourg,LUX,Western Europe,57.78,6.95,57784495265,6.67,102696.06,57.78,102.7
+17,Ireland,IRL,Western Europe,290.62,6.94,2.90617E+11,9.4,61695.82,290.62,61.7
+18,Belgium,BEL,Western Europe,455.04,6.94,4.5504E+11,8.48,40514.1,455.04,40.51
+19,United Arab Emirates,ARE,Middle East and Northern Africa,358.14,6.9,3.58135E+11,1.93,37380.57,358.14,37.38
+20,United Kingdom,GBR,Western Europe,"2,885.57",6.87,2.88557E+12,5.3,44494.86,"2,885.57",44.49
+21,Oman,OMN,Middle East and Northern Africa,68.91,6.85,68905071521,3.32,18243.81,68.91,18.24
+23,Singapore,SGP,Southeastern Asia,304.1,6.8,3.04098E+11,1.69,54939.86,304.1,54.94
+24,Panama,PAN,Latin America and Caribbean,54.09,6.79,54091713776,4.53,13662.94,54.09,13.66
+25,Germany,DEU,Western Europe,"3,375.61",6.75,3.37561E+12,4.62,41415.17,"3,375.61",41.42
+26,Chile,CHL,Latin America and Caribbean,244,6.67,2.43999E+11,6.51,13548.62,244,13.55
+27,Qatar,QAT,Middle East and Northern Africa,161.74,6.61,1.6174E+11,0.16,66346.91,161.74,66.35
+28,France,FRA,Western Europe,"2,438.21",6.58,2.43821E+12,10.36,37937.85,"2,438.21",37.94
+29,Argentina,ARG,Latin America and Caribbean,594.75,6.57,5.94749E+11,7.15,14895.32,594.75,14.9
+30,Czech Republic,CZE,Central and Eastern Europe,186.83,6.5,1.8683E+11,5.05,17728.7,186.83,17.73
+31,Uruguay,URY,Latin America and Caribbean,53.27,6.49,53274304222,7.49,15365.96,53.27,15.37
+32,Colombia,COL,Latin America and Caribbean,293.48,6.48,2.93482E+11,8.24,6088.68,293.48,6.09
+33,Thailand,THA,Southeastern Asia,401.4,6.46,4.01399E+11,0.6,5830.64,401.4,5.83
+34,Saudi Arabia,SAU,Middle East and Northern Africa,654.27,6.41,6.5427E+11,5.59,21094.6,654.27,21.09
+35,Spain,ESP,Western Europe,"1,197.79",6.33,1.19779E+12,22.06,25821.78,"1,197.79",25.82
+36,Malta,MLT,Western Europe,10.55,6.3,10554669618,5.39,24036.73,10.55,24.04
+38,Kuwait,KWT,Middle East and Northern Africa,114.57,6.29,1.14567E+11,2.2,27036.14,114.57,27.04
+39,Suriname,SUR,Latin America and Caribbean,4.77,6.27,4767414748,7.22,8507.97,4.77,8.51
+40,Trinidad and Tobago,TTO,Latin America and Caribbean,24.4,6.17,24401734195,3.39,17834.48,24.4,17.83
+41,El Salvador,SLV,Latin America and Caribbean,23.17,6.13,23166030400,4,3671.32,23.17,3.67
+42,Guatemala,GTM,Latin America and Caribbean,63.77,6.12,63767597194,2.7,3923.56,63.77,3.92
+43,Uzbekistan,UZB,Central and Eastern Europe,66.9,6,66903804143,7.94,2143.29,66.9,2.14
+45,Japan,JPN,Eastern Asia,"4,394.98",5.99,4.39498E+12,3.33,34612.25,"4,394.98",34.61
+47,Ecuador,ECU,Latin America and Caribbean,99.29,5.97,99290381000,3.62,6099.35,99.29,6.1
+48,Bahrain,BHR,Middle East and Northern Africa,31.13,5.96,31125851064,1.21,22714.24,31.13,22.71
+49,Italy,ITA,Western Europe,"1,832.87",5.95,1.83287E+12,11.9,30163.21,"1,832.87",30.16
+50,Bolivia,BOL,Latin America and Caribbean,33,5.89,33000198263,3.07,3099.45,33,3.1
+52,Paraguay,PRY,Latin America and Caribbean,36.16,5.88,36164068797,4.56,5353.08,36.16,5.35
+53,Kazakhstan,KAZ,Central and Eastern Europe,184.39,5.86,1.84388E+11,4.93,10434.76,184.39,10.43
+54,Slovenia,SVN,Central and Eastern Europe,43.07,5.85,43072415017,8.96,20890.3,43.07,20.89
+55,Lithuania,LTU,Central and Eastern Europe,41.51,5.83,41508609233,9.12,14296.35,41.51,14.3
+56,Nicaragua,NIC,Latin America and Caribbean,12.61,5.83,12611087031,4.48,2073.49,12.61,2.07
+57,Peru,PER,Latin America and Caribbean,189.93,5.82,1.89927E+11,3,6150.46,189.93,6.15
+58,Belarus,BLR,Central and Eastern Europe,56.45,5.81,56454734397,0.49,5941.24,56.45,5.94
+59,Poland,POL,Central and Eastern Europe,476.97,5.79,4.76971E+11,7.5,12559.9,476.97,12.56
+60,Malaysia,MYS,Southeastern Asia,296.64,5.77,2.96636E+11,3.1,9677.16,296.64,9.68
+61,Croatia,HRV,Central and Eastern Europe,49.49,5.76,49490142433,16.18,11779.01,49.49,11.78
+62,Libya,LBY,Middle East and Northern Africa,27.84,5.75,27842131486,18.36,2719.95,27.84,2.72
+64,Jamaica,JAM,Latin America and Caribbean,14.15,5.71,14145469269,13.51,5029.07,14.15,5.03
+66,Cyprus,CYP,Western Europe,19.68,5.69,19680625485,14.92,23243.22,19.68,23.24
+67,Algeria,DZA,Middle East and Northern Africa,165.98,5.61,1.65979E+11,11.2,4153.33,165.98,4.15
+69,Turkmenistan,TKM,Central and Eastern Europe,35.8,5.55,35799714286,3.58,6432.67,35.8,6.43
+70,Mauritius,MUS,Sub-Saharan Africa,11.69,5.48,11692287066,7.92,9258.56,11.69,9.26
+72,Estonia,EST,Central and Eastern Europe,22.57,5.43,22566956982,6.19,17164.51,22.57,17.16
+73,Indonesia,IDN,Southeastern Asia,860.85,5.4,8.60854E+11,4.51,3369.36,860.85,3.37
+75,Turkey,TUR,Middle East and Northern Africa,859.8,5.33,8.59797E+11,10.24,10914.89,859.8,10.91
+77,Nigeria,NGA,Sub-Saharan Africa,494.58,5.27,4.94583E+11,4.31,2763.2,494.58,2.76
+78,Bhutan,BTN,Southern Asia,2.06,5.25,2059809920,2.45,2604.19,2.06,2.6
+79,Azerbaijan,AZE,Central and Eastern Europe,53.07,5.21,53074370486,4.96,5300.14,53.07,5.3
+80,Pakistan,PAK,Southern Asia,270.56,5.19,2.70556E+11,3.57,1424.95,270.56,1.42
+81,Jordan,JOR,Middle East and Northern Africa,37.52,5.19,37517410282,13.07,4101.89,37.52,4.1
+82,Montenegro,MNE,Central and Eastern Europe,4.05,5.19,4052913386,17.52,6517.42,4.05,6.52
+83,China,CHN,Eastern Asia,"11,064.67",5.14,1.10647E+13,4.61,8166.76,"11,064.67",8.17
+84,Zambia,ZMB,Sub-Saharan Africa,21.15,5.13,21154394546,7.75,1310.35,21.15,1.31
+85,Romania,ROU,Central and Eastern Europe,177.89,5.12,1.77893E+11,6.81,8950.46,177.89,8.95
+86,Serbia,SRB,Central and Eastern Europe,37.16,5.12,37160332465,17.92,5237.25,37.16,5.24
+87,Portugal,PRT,Western Europe,199.42,5.1,1.9942E+11,12.44,19262.27,199.42,19.26
+88,Latvia,LVA,Central and Eastern Europe,26.97,5.1,26972863394,9.87,13587.68,26.97,13.59
+89,Philippines,PHL,Southeastern Asia,292.77,5.07,2.92774E+11,3.04,2882.77,292.77,2.88
+91,Morocco,MAR,Middle East and Northern Africa,101.18,5.01,1.0118E+11,9.66,2964.96,101.18,2.96
+93,Mozambique,MOZ,Sub-Saharan Africa,14.8,4.97,14798413628,25.3,528.93,14.8,0.53
+94,Albania,ALB,Central and Eastern Europe,11.39,4.96,11386931490,17.08,3953.61,11.39,3.95
+95,Bosnia and Herzegovina,BIH,Central and Eastern Europe,16.21,4.95,16209702864,27.69,4584.26,16.21,4.58
+96,Lesotho,LSO,Sub-Saharan Africa,2.51,4.9,2510312805,26.98,1179.12,2.51,1.18
+97,Dominican Republic,DOM,Latin America and Caribbean,68.8,4.88,68802092021,5.92,6903.42,68.8,6.9
+99,Mongolia,MNG,Eastern Asia,11.75,4.87,11749620620,4.86,3956.88,11.75,3.96
+101,Greece,GRC,Western Europe,195.54,4.86,1.95542E+11,24.9,18018.04,195.54,18.02
+102,Lebanon,LBN,Middle East and Northern Africa,49.91,4.84,49910270062,6.63,11279.44,49.91,11.28
+103,Hungary,HUN,Central and Eastern Europe,122.88,4.8,1.22879E+11,6.81,12461.75,122.88,12.46
+104,Honduras,HND,Latin America and Caribbean,20.98,4.79,20979767785,4.59,2598.1,20.98,2.6
+105,Tajikistan,TJK,Central and Eastern Europe,7.85,4.79,7854602392,10.36,919.07,7.85,0.92
+106,Tunisia,TUN,Middle East and Northern Africa,43.15,4.74,43152528548,15.22,3827.64,43.15,3.83
+108,Bangladesh,BGD,Southern Asia,195.08,4.69,1.95079E+11,4.43,1303.18,195.08,1.3
+110,Ukraine,UKR,Central and Eastern Europe,91.03,4.68,91030959455,9.14,2135.18,91.03,2.14
+111,Iraq,IRQ,Middle East and Northern Africa,177.5,4.68,1.77499E+11,8.09,4811.92,177.5,4.81
+112,South Africa,ZAF,Sub-Saharan Africa,317.54,4.64,3.17537E+11,25.16,5802.71,317.54,5.8
+113,Ghana,GHA,Sub-Saharan Africa,49.18,4.63,49181854798,2.15,1372.17,49.18,1.37
+114,Zimbabwe,ZWE,Sub-Saharan Africa,19.96,4.61,19963120600,5.09,1137.07,19.96,1.14
+115,Liberia,LBR,Sub-Saharan Africa,3.18,4.57,3177000000,2.27,703.18,3.18,0.7
+116,India,IND,Southern Asia,"2,102.39",4.57,2.10239E+12,3.49,1638.76,"2,102.39",1.64
+117,Sudan,SDN,Sub-Saharan Africa,97.16,4.55,97156119150,12.78,1715.07,97.16,1.72
+118,Haiti,HTI,Latin America and Caribbean,8.72,4.52,8724656126,14.05,809.67,8.72,0.81
+120,Nepal,NPL,Southern Asia,21.41,4.51,21410840909,3.1,747.16,21.41,0.75
+121,Ethiopia,ETH,Sub-Saharan Africa,64.46,4.51,64464547915,4.97,720.62,64.46,0.72
+122,Sierra Leone,SLE,Sub-Saharan Africa,4.22,4.51,4218723875,4.7,599.54,4.22,0.6
+123,Mauritania,MRT,Sub-Saharan Africa,4.84,4.44,4844223107,9.85,1303.87,4.84,1.3
+124,Kenya,KEN,Sub-Saharan Africa,64.01,4.42,64007751188,11.59,1453.3,64.01,1.45
+125,Djibouti,DJI,Sub-Saharan Africa,1.63,4.37,1633741923,5.86,1788.36,1.63,1.79
+126,Armenia,ARM,Central and Eastern Europe,10.55,4.35,10553337673,18.26,3529.03,10.55,3.53
+127,Botswana,BWA,Sub-Saharan Africa,14.41,4.33,14406496464,17.01,6538.59,14.41,6.54
+128,Myanmar,MMR,Southeastern Asia,59.69,4.31,59687410897,0.77,1147.34,59.69,1.15
+129,Georgia,GEO,Central and Eastern Europe,13.99,4.3,13993546748,11.96,3761.91,13.99,3.76
+130,Malawi,MWI,Sub-Saharan Africa,6.37,4.29,6373212641,5.88,353.5,6.37,0.35
+131,Sri Lanka,LKA,Southern Asia,80.6,4.27,80604080689,4.67,3835.36,80.6,3.84
+132,Cameroon,CMR,Sub-Saharan Africa,30.92,4.25,30916218544,4.3,1338.6,30.92,1.34
+133,Bulgaria,BGR,Central and Eastern Europe,50.2,4.22,50201314895,9.14,7017.11,50.2,7.02
+134,Egypt,EGY,Middle East and Northern Africa,332.7,4.19,3.32698E+11,13.05,3731.18,332.7,3.73
+135,Yemen,YEM,Middle East and Northern Africa,45.59,4.08,45593573381,13.81,1612.01,45.59,1.61
+136,Angola,AGO,Sub-Saharan Africa,116.19,4.03,1.16194E+11,7.28,4354.92,116.19,4.35
+137,Mali,MLI,Sub-Saharan Africa,13.1,4,13099495530,7.73,740.32,13.1,0.74
+139,Comoros,COM,Sub-Saharan Africa,0.99,3.96,988150249.5,4.34,750.58,0.99,0.75
+140,Uganda,UGA,Sub-Saharan Africa,27.1,3.93,27102650387,1.9,662.16,27.1,0.66
+141,Senegal,SEN,Sub-Saharan Africa,17.77,3.9,17767620059,4.85,1186.93,17.77,1.19
+142,Gabon,GAB,Sub-Saharan Africa,14.38,3.9,14377324798,20,7453.11,14.38,7.45
+143,Niger,NER,Sub-Saharan Africa,7.22,3.85,7217667781,0.34,409.22,7.22,0.41
+144,Cambodia,KHM,Southeastern Asia,18.05,3.82,18049954289,0.18,1163.41,18.05,1.16
+146,Madagascar,MDG,Sub-Saharan Africa,9.74,3.68,9744243531,1.8,402.07,9.74,0.4
+147,Central African Republic,CAF,Sub-Saharan Africa,1.58,3.68,1583776806,6.39,330.56,1.58,0.33
+148,Chad,TCD,Sub-Saharan Africa,10.95,3.67,10945989472,5.66,946.4,10.95,0.95
+149,Guinea,GIN,Sub-Saharan Africa,8.79,3.66,8794202410,4.53,712.05,8.79,0.71
+151,Burkina Faso,BFA,Sub-Saharan Africa,10.42,3.59,10419303761,6.49,575.62,10.42,0.58
+152,Afghanistan,AFG,Southern Asia,19.91,3.58,19907111419,8.86,594.51,19.91,0.59
+153,Rwanda,RWA,Sub-Saharan Africa,8.28,3.46,8277613194,1.16,735.62,8.28,0.74
+154,Benin,BEN,Sub-Saharan Africa,8.29,3.34,8291155881,2.63,786.17,8.29,0.79
+156,Burundi,BDI,Sub-Saharan Africa,3.1,2.9,3104394858,1.57,294.5,3.1,0.29
+157,Togo,TGO,Sub-Saharan Africa,4.18,2.84,4179185205,1.84,563.76,4.18,0.56
